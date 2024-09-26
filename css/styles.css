@@ -1,0 +1,100 @@
+body {
+    font-family: "Montserrat, sans-serif";
+}
+
+h1 {
+    font-family: "Montserrat, sans-serif";
+    font-size: 2.8rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+#title {
+    background-color: #051d35;
+    color: #fff;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+
+.navbar-brand {
+    font-family: "Ubuntu", sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-weight: 300;
+}
+
+/* navigation bar */
+
+.navbar {
+padding: 0 0 4.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.2rem;
+}
+
+/* Imagem do cabeçalho */
+
+.image-title {
+width: 60%;
+rotate: 25deg;
+}
+
+/* Features */
+
+#features h4 {
+    color: #000;
+    font-family:  "Montserrat, sans-serif";
+    font-weight: 700
+}
+    
+
+#features p {
+        color: #8f8f8f;
+    }
+
+
+#features {
+    height: 20rem;
+    margin-bottom: 1rem;
+}
+
+#check {
+    text-align: center;
+    padding-top: 7rem;
+   
+}
+
+.fa-circle-check:hover {
+    opacity: 75%;
+}
+
+#target {
+    text-align: center;
+    padding-top: 7rem;
+}
+
+.fa-circle-dot:hover {
+    opacity: 75%;
+}
+
+#heart {
+    text-align: center;
+    padding-top: 7rem;
+}
+
+.fa-heart:hover {
+    opacity: 75%;
+}
+
+.btn-primary {
+    btn-padding-y: .25rem; btn-padding-x: .5rem; btn-font-size: .75rem;
+}
